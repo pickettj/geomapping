@@ -16,7 +16,7 @@
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/): download detailed topograhpic data
 
 
-## Historical Data resources
+## Historical Data Resources
 
 - [Imperiia](http://dighist.fas.harvard.edu/projects/imperiia/finder): historical shape files for the Russian Empire, from a Harvard mapping project
 - [Ancient World Mapping Center](https://github.com/AWMC/geodata): geospatial data for the ancient world
