@@ -7,6 +7,7 @@
 - [QGIS Tutorials](http://www.qgistutorials.com/en/)
 - [Geopandas Tutorial](https://github.com/jorisvandenbossche/geopandas-tutorial): Complete with sample Jupyter notebook walk-throughs
 
+
 ## Public Data Sources
 
 - [Natural Earth](https://www.naturalearthdata.com/downloads/): shape files for natural features
@@ -28,6 +29,7 @@
 
 - [Recogito](https://recogito.pelagios.org/): upload a text, get geographic data out the other end
 - [Neatline](https://neatline.org/): [Omeka](https://omeka.org/)-based tool for publishing interactive story-maps
+- [Map Warper](https://lincolnmullen.com/projects/spatial-workshop/georectification.html): tutorial and link to alternatives to QGIS / ArcGIS for georectification. (Hat tip @grunewas)
 
 ## Existing Projects
 
@@ -38,3 +40,15 @@
 ## GUI Platforms
 
 - [Geoda](http://geodacenter.github.io/): "a user-friendly and graphical interface to methods of exploratory spatial data analysis"
+
+
+----
+
+## Methods
+
+
+### Spatial Joins
+
+- When you have a dataset of values associated with specific coordinates, how to make a choropleth shading a set of shape files based on the aggregate value of the points within a given shape? (Hat tip @grunewas)
+- [QGIS tutorial on Performing Spatial Joins](https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html)
+  - [How to override "invalid input"](https://gis.stackexchange.com/questions/289056/ignoring-invalid-input-features-with-intersection-tool-in-qgis) warning with Intersection tool.
