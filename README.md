@@ -7,7 +7,7 @@
 - [QGIS Tutorials](http://www.qgistutorials.com/en/)
 - [Geopandas Tutorial](https://github.com/jorisvandenbossche/geopandas-tutorial): Complete with sample Jupyter notebook walk-throughs
 - [Linked Places Format](https://github.com/LinkedPasts/linked-places) for the [World Historical Gazetteer](http://whgazetteer.org/)
-
+  - [Helpful tutorials](http://dev.whgazetteer.org/tutorials/)
 
 ## Public Data Sources
 
