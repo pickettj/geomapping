@@ -9,6 +9,10 @@
 - [Linked Places Format](https://github.com/LinkedPasts/linked-places) for the [World Historical Gazetteer](http://whgazetteer.org/)
   - [Helpful tutorials](http://dev.whgazetteer.org/tutorials/)
 
+## Rasters for Tracing
+
+- [Middle East Historical Maps](https://middleastonight.com/maps) (via [Twitter](https://twitter.com/_ZachFoster/status/1248641984824147968))
+
 ## Public Data Sources
 
 - [Natural Earth](https://www.naturalearthdata.com/downloads/): shape files for natural features
