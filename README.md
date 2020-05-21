@@ -5,6 +5,7 @@
 
 - [GeoNames](http://www.geonames.org/): Database of place coordinates
 - [QGIS Tutorials](http://www.qgistutorials.com/en/)
+  - [Adding the World Hillshade Layer](https://ieqgis.wordpress.com/2017/09/02/adding-esris-world-hillshade-layer-to-qgis/)
 - [Geopandas Tutorial](https://github.com/jorisvandenbossche/geopandas-tutorial): Complete with sample Jupyter notebook walk-throughs
 - [Linked Places Format](https://github.com/LinkedPasts/linked-places) for the [World Historical Gazetteer](http://whgazetteer.org/)
   - [Helpful tutorials](http://dev.whgazetteer.org/tutorials/)
