@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This directory contains a variety of shape files, often for Central / South Asian / Middle Eastern historical polities. Some of them are of my own design, some are traced or adapted from atlases; most are a combination. All are works in progress, i.e. I alter the borders, add descriptive data, and update the files as I learn more. (The numbers after 'loc' in the filenames are internal tracking numbers, do not correspond to anything public.)
+This directory contains a variety of shape files, mostly for early modern and colonial-era Central / South Asian / Middle Eastern historical political / administrative boundaries. Some of them are of my own design, some are traced or adapted from atlases; most are a combination. All are works in progress, i.e. I alter the borders, add descriptive data, and update the files as I learn more. (The numbers after 'loc' in the filenames are internal tracking numbers, do not correspond to anything public.) Feedback welcome!
 
 Where applicable, I have tried to include the raster base base-layer(s) I used for tracing; and have kept a minimal log of departures from that source.
 
