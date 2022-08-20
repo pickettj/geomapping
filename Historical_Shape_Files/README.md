@@ -12,7 +12,7 @@ There are serious digital mapping projects out there for [China](https://chgis.f
 
 ## Can I use these?
 
-This work is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). If you used them unmodified in your work, please credit me. If you adapt them, then it is now your work.
+This work is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). If you used them unmodified in your work, please credit me. If you adapt them - even just a little bit - then it is now your work.
 
 ## How do I even open these files?
 
