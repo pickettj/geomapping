@@ -1,0 +1,1 @@
+Most (not all) of these shapes rely on Yuri Bregel, An Historical Atlas of Central Asia (Leiden: Brill, 2003), p. 91.

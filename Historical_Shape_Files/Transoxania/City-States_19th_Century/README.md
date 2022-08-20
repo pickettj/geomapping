@@ -1,0 +1,1 @@
+Most (though not all) of these shapes used Yuri Bregel, An Historical Atlas of Central Asia (Leiden: Brill, 2003), p. 63 as the primary input.

@@ -1,0 +1,1 @@
+The most important input for most of these shapes is: Yuri Bregel, *An Historical Atlas of Central Asia* (Leiden: Brill, 2003), 81. However, some of the structures are still standing and were traced from Google Maps, etc.
