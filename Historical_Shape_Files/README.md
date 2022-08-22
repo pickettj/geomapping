@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This directory contains a variety of shape files, often for Central / South Asian / Middle Eastern historical polities. Some of them are of my own design, some are traced or adapted from atlases; most are a combination. All are works in progress, i.e. I alter the borders, add descriptive data, and update the files as I learn more. (The numbers after 'loc' in the filenames are internal tracking numbers, do not correspond to anything public.)
+This directory contains a variety of shape files, mostly for early modern and colonial-era Central / South Asian / Middle Eastern historical political / administrative boundaries. Some of them are of my own design, some are traced or adapted from atlases; most are a combination. All are works in progress, i.e. I alter the borders, add descriptive data, and update the files as I learn more. (The numbers after 'loc' in the filenames are internal tracking numbers, do not correspond to anything public.) Feedback welcome!
 
 Where applicable, I have tried to include the raster base base-layer(s) I used for tracing; and have kept a minimal log of departures from that source.
 
@@ -12,7 +12,7 @@ There are serious digital mapping projects out there for [China](https://chgis.f
 
 ## Can I use these?
 
-This work is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). If you used them unmodified in your work, please credit me. If you adapt them, then it is now your work.
+This work is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). If you used them unmodified in your work, please credit me. If you adapt them - even just a little bit - then it is now your work.
 
 ## How do I even open these files?
 
