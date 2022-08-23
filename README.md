@@ -27,7 +27,7 @@
 
 ## Historical Data Resources
 
-- [Imperiia](http://dighist.fas.harvard.edu/projects/imperiia/finder): historical shape files for the Russian Empire, from a Harvard mapping project
+- Imperiia: historical shape files for the Russian Empire, from a Harvard mapping project (old link dead; unclear how to access data from new site)
 - [Ancient World Mapping Center](https://github.com/AWMC/geodata): geospatial data for the ancient world
   - [Persian Empire](https://github.com/AWMC/geodata/blob/master/Cultural-Data/political_shading/persian_extent/extent_of_the_persian_empire.geojson) geojson
 - [China Historical GIS](https://chgis.fairbank.fas.harvard.edu/)
@@ -53,6 +53,8 @@
 ----
 
 ## Methods
+
+- [QGIS3 Hillshade](https://ieqgis.com/2017/09/02/adding-esris-world-hillshade-layer-to-qgis/)
 
 
 ### Spatial Joins
