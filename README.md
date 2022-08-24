@@ -18,6 +18,7 @@
 ## Public Data Sources
 
 - [Natural Earth](https://www.naturalearthdata.com/downloads/): shape files for natural features
+- [Geoboundaries](https://www.geoboundaries.org/index.html#getdata): modern administrative boundary shape files
 - [Geofabrik](https://www.geofabrik.de/): huge database of shapefiles (both administrative and natural) by country
 - [Global Watersheds](http://www.fao.org/geonetwork/srv/en/metadata.show?id=30914) vector files ([direct download link](http://www.fao.org/geonetwork/srv/en/resources.get?id=30914&fname=wri_basins.zip&access=private))
   - Linked to from [Freshwater Data Portal](https://data.freshwaterbiodiversity.eu/shapefiles)
