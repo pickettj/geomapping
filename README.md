@@ -10,6 +10,8 @@
 - [Geopandas Tutorial](https://github.com/jorisvandenbossche/geopandas-tutorial): Complete with sample Jupyter notebook walk-throughs
 - [Linked Places Format](https://github.com/LinkedPasts/linked-places) for the [World Historical Gazetteer](http://whgazetteer.org/)
   - [Helpful tutorials](http://dev.whgazetteer.org/tutorials/)
+- [Adding new tile layers in QGIS](https://www.spatialbias.com/2018/02/qgis-3.0-xyz-tile-layers/)
+- [Python for Mapping and Data Visualization course (Ujaval Gandhi)](https://courses.spatialthoughts.com/python-dataviz.html) from [tweet](https://twitter.com/spatialthoughts/status/1573224800251973632?s=11&t=DRmyfUfas0qxn2jgckevYQ)
 
 ## Rasters for Tracing
 
