@@ -1,22 +1,32 @@
 {
-	"type": "Feature",
-	"geometry": {
-	  "type": "Point",
-	  "coordinates": [40.441063867901882, -79.91877256652567]
-	
-	},
-	"properties": {
-	  "Cafe_name": "Commonplace Coffee"
-	}
-  }
-  {
-	"type": "Feature",
-	"geometry": {
-	  "type": "Point",
-	  "coordinates": [40.44125235992703, -79.95426787957021]
-	
-	},
-	"properties": {
-	  "Cafe_name": "Posvar"
-	}
+	"type": "FeatureCollection",
+	"features": [
+	  {
+		"type": "Feature",
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			 -79.91877256652567,
+			 40.441063867901882
+		  ]
+		},
+		"properties": {
+		  "name": "Commonplace Coffee"
+		}
+	  },
+	  {
+		"type": "Feature",
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			-79.95426787957021,
+			40.44125235992703 
+		  ]
+		},
+		"properties": {
+		  "name": "Posvar Hall"
+		}
+	  }
+	  
+	]
   }
