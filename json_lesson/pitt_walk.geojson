@@ -1,0 +1,11 @@
+{
+	"type": "Feature",
+	"geometry": {
+	  "type": "Point",
+	  "coordinates": [40.441063867901882,-79.91877256652567]
+	
+	},
+	"properties": {
+	  "Cafe_name": "Commonplace Coffee",
+	}
+  }
