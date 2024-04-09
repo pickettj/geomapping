@@ -1,47 +1,54 @@
 
+    
+    
     {
     "type": "FeatureCollection",
     "features": [
     
         
         
+        
+        
         {
         "type": "Feature",
         "geometry": {
         "type": "Point",
-        "coordinates": [-79.91877256652567, 40.441063867901882]
+        "coordinates": [-79.91877256652567,40.441063867901882]
         },
         "properties": {
         "name": "commonplace"
         }
-        },
-    
+        }
+        ,
+        
         
         
         {
         "type": "Feature",
         "geometry": {
         "type": "Point",
-        "coordinates": [-79.95426787957021, 40.44125235992703]
+        "coordinates": [-79.8961075427762,40.45097067558358]
         },
         "properties": {
         "name": "ascend"
         }
-        },
-    
+        }
+        ,
+        
         
         
         {
         "type": "Feature",
         "geometry": {
         "type": "Point",
-        "coordinates": [-79.95426787957021, 40.44125235992703]
+        "coordinates": [-79.95426787957021,40.44125235992703]
         },
         "properties": {
         "name": "posvar"
         }
-        },
-    
+        }
+        
         	]
   }
     
+   
