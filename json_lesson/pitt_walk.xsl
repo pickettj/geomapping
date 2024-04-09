@@ -25,15 +25,23 @@
         {
         "type": "FeatureCollection",
         "features": [
-        <xsl:apply-templates select="//place" mode="points"/>
-        <xsl:apply-templates select="//day" mode="lines"/>
+        <xsl:apply-templates select="//place" mode="lines"/>,
+        <xsl:apply-templates select="//day" mode="points"/>
         ]
         }
     </xsl:template>
     
-
-<!-- Mapping all of the points in the XML document (no order, no relationship to one o  -->
+<!-- Mapping all of the points in the XML document (no order, no relationship to one one another)  -->
     <xsl:template mode="points" match="place">
+        <xsl:variable name="coords" select="map:get($coordinates, @uid)"/>
+        [<xsl:value-of select="$coords"/>]
+        <xsl:if test="position() != last()">,</xsl:if>
+    </xsl:template>
+    
+
+<!-- Drawing lines "as the crow flies," by day -->
+    <xsl:template mode="lines" match="place">
+        <xsl:if test="position() != 1">,</xsl:if>
         {
         "type": "Feature",
         "geometry": {
@@ -43,28 +51,21 @@
         "properties": {
         "name": "<xsl:value-of select="@uid"/>"
         }
-        },
+        }
     </xsl:template>
-    
-    <!-- Template for line features -->
-    <xsl:template mode="lines" match="day">
+    <xsl:template mode="points" match="day">
         {
         "type": "Feature",
         "geometry": {
         "type": "LineString",
         "coordinates": [
-        <xsl:apply-templates select="place" mode="lines"/>
+        <xsl:apply-templates select="place" mode="points"/>
         ]
         },
         "properties": {
-        "name": "Line 1"
+        "name": "Line_<xsl:value-of select="position()"/>"
         }
-        },
+        }<xsl:if test="position() != last()">,</xsl:if>
     </xsl:template>
     
-    <xsl:template mode="lines" match="place">
-        <xsl:variable name="coords" select="map:get($coordinates, @uid)"/>
-        [<xsl:value-of select="$coords"/>]
-        <xsl:if test="position() != last()">,</xsl:if>
-    </xsl:template>
 </xsl:stylesheet>
