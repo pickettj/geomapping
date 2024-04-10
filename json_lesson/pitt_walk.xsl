@@ -7,9 +7,9 @@
     version="3.0">
     <xsl:output method="text" indent="yes"/>
 
-
     
 <!--Set up an XSLT "Map," whereby you can call values based on a key.-->
+<!-- Notice the additional namespace declaration in the root element above. -->
     <xsl:variable name="coordinates" as="map(xs:string, xs:string)">
         <xsl:map>
             <xsl:map-entry key="'commonplace'" select="'-79.91877256652567,40.441063867901882'"/>
