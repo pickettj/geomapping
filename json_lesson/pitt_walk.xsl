@@ -18,7 +18,10 @@
         </xsl:map>
     </xsl:variable>
     
-    
+
+<!-- A more robust way to do the following would be to use the XML-to-JSON fucntion.
+    That way you don't risk putting in syntax that is meaningful in JSON format and therefore messues up the code.
+    But the xml-to-JSON can model the entire thing in XML in advance of the transformation.-->
 
 <!-- Geojson "superstructure" (analagous to how you would set up html or SVG superstructure) -->  
     <xsl:template match="/">
